@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![banner image](banner.png)
 <!--
 **CreightonEli/CreightonEli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
